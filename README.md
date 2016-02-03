@@ -1,7 +1,11 @@
 # color-scheme配色方案
 收集大量的配色方案文件
 
-`git clone https://github.com/holoto/color-scheme.git`
+`git clone https://github.com/holoto/color-scheme.git`#webstrom color scheme
+
+
+<br>
+收集的github 库
 + [https://github.com/tomasr/molokai](https://github.com/tomasr/molokai)<br>
 + [https://github.com/negativefix/zenburn](https://github.com/negativefix/zenburn
 )<br>
