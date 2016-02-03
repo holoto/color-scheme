@@ -9,7 +9,7 @@
 + [https://github.com/y3sh/Intellij-Colors-Sublime-Monokai](https://github.com/y3sh/Intellij-Colors-Sublime-Monokai)<br>
 + [https://github.com/d1ffuz0r/pycharm-themes](https://github.com/d1ffuz0r/pycharm-themes)<br>
 + [https://github.com/minwe/oceanic-next-jetbrains](https://github.com/minwe/oceanic-next-jetbrains)<br>
-#[https://github.com/daylerees/colour-schemes](https://github.com/daylerees/colour-schemes)<br>
++ [https://github.com/daylerees/colour-schemes](https://github.com/daylerees/colour-schemes)<br>
 + [https://github.com/abhimanyusharma003/phpstorm-spacegray](https://github.com/abhimanyusharma003/phpstorm-spacegray)<br><br>
 + [https://github.com/ShawnMcCool/PHPStorm-SpacePeacock](https://github.com/ShawnMcCool/PHPStorm-SpacePeacock)<br>
 
